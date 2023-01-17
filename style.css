@@ -1,0 +1,216 @@
+
+p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: aqua;
+    padding-left: 30px;
+    
+}
+
+.content p{
+    font-family: fantasy;
+    color: black;
+    
+
+}
+
+.content p{
+    font-family: fantasy;
+    color: black;
+}
+.map p{
+    padding-top: 80px;
+}
+    
+h3{
+        font-family: sans-serif;
+        padding-left: 30px;
+    }
+
+.content p{
+    font-family: sans-serif;
+    color: black;
+}  
+#tabs-top{
+    position: fixed;
+    top: 40px; 
+    display: block;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(29, 28, 27);
+   
+}
+
+#tabs-top a{
+    float: left;
+    display: block;
+    width: 20%;
+    height: 35px;
+    font-weight: 700;
+    color: blueviolet;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+}
+
+.background_image {
+    background-image: url(images/money.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    padding-top: 40px;
+    margin-top: 40px;
+      
+}
+.background_image2 {
+    background-image: url(images/money2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding-top: 40px;
+    margin-top: 40px; 
+}
+.background_image2 a{
+    text-decoration: none;
+}
+.background_image3{
+    background-image: url(images/mall..jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding-top: 40px;
+    margin-top: 40px;
+    
+}
+.background_image3 p{
+    color: black;
+    
+}
+
+.main-content{
+    font-size: larger;
+    font-weight: 900;
+    padding-left: 30px;
+    padding-top: 0px;
+}
+
+.main p{
+    color:black
+}
+
+
+.background_image a{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    padding-left: 80px;
+
+}
+
+.imgMain h3{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.imgMain img{
+    display: block;
+    margin-left: auto; margin-right: auto;
+    
+}
+
+#header {
+    position: fixed;
+    top: 80px;
+}
+#header-item img{
+    width: 176px;
+}
+
+.header-title h1{
+    position: fixed;
+    top: 0;
+    margin-top: 0;
+    z-index: 500;
+    color: blueviolet;
+    
+}
+
+.header-title{
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: rgb(29, 28, 27);
+   
+}
+
+.dis-chem img{
+    width: 50%;
+    float: right;
+} 
+
+#hyper a{
+    text-decoration: none;
+    color: black;
+    padding-left: 30px;
+}
+
+.mr-price img{
+    width: 50%;
+    float: right;
+    padding-top: 80px;
+
+}
+.mr-price-info{
+    padding-top: 230px;
+}
+
+.pick-n-pay img{
+    width: 50%;
+    float: right;
+    padding-top: 80px;
+
+}
+
+.pick-n-pay-info{
+    padding-top: 150px;
+}
+.pick-n-pay-info h3{
+    color: blue;
+}
+
+.Sony img{
+    padding-top: 150px;
+}
+
+.mug-n-beam img{
+   
+    width: 50%;
+    float: right;
+
+}
+
+#title h2{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+#title-content img{
+    height: 350px;
+   
+}
+
+#title-content{
+    margin-top: 210px;
+}
+
+#movie h2{
+    margin-top: 100px
+}
+
+#movie p{
+    color: red;
+}
+
+
